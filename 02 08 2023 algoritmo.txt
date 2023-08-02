@@ -1,0 +1,21 @@
+1º  Passo: Saia de casa.
+2º  Passo: Entre no carro.
+3º  Passo: Se a garagem estiver aberta, saia. Senão, abra-a e saia.
+4º  Passo: Dirija até o local desejado.
+5º  Passo: Se chegou, estacione o carro. Senão, continue até chegar e estacionar.
+6º  Passo: Se estacionou, retire a chave da ignição e saia do carro.
+7º  Passo: Tranque o carro e dirija-se à lanchonete.
+8º  Passo: Se a lanchonete estiver aberta, entre e dirija-se ao caixa. Senão, volte para o carro. Procure outra lanchonete aberta, entre e  dirija-se ao caixa.
+9º  Passo: Faça o pedido e efetue o pagamento.
+10º Passo: Aguarde.
+11º Passo: Se o número de seu pedido for chamado, dirija-se ao caixa e pegue sua refeição. Senão, aguarde ser chamado e pegue-a.
+12º Passo: Procure um lugar para sentar e coma.
+13º Passo: Se estiver satisfeito, jogue o resto na lixeira. Senão, faça outro pedido e coma.
+14º Passo: Saia da lanchonete e dirija-se ao carro.
+15º Passo: Entre, ponha o sinto de segurança e vá para casa
+
+
+Passo 1: Pegar o bombom;
+Passo 2: Retirar o papel;
+Passo 3: Comer o bombom;
+Passo 4: Jogar o papel no lixo. 
